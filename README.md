@@ -1,4 +1,6 @@
-# OctoRelay
+# OctoRelay-OPi
+**PLUGIN FORKED FROM THE ORIGINAL OctoRelay TO GET IT WORKING FOR THE ORANGE PI BOARDS.**
+
 A plugin that adds buttons to the navigation bar to toggle GPIO pins on the Orange Pi.
 
 This Plugin is forked from the original OctoRelay Plugin by borisbu (https://github.com/borisbu/OctoRelay) thanks ;-)
