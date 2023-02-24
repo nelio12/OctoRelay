@@ -1,7 +1,7 @@
 # OctoRelay
-A plugin that adds buttons to the navigation bar to toggle GPIO pins on the Raspberry Pi.
+A plugin that adds buttons to the navigation bar to toggle GPIO pins on the Orange Pi.
 
-This Plugin was based on the Octolight Plugin by Žiga Kralj (https://github.com/gigibu5/OctoLight) thanks ;-)
+This Plugin is forked from the original OctoRelay Plugin by borisbu (https://github.com/borisbu/OctoRelay) thanks ;-)
 
 ![WebUI interface](img/screenshot.png)
 
